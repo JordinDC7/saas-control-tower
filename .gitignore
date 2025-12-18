@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# ASP.NET Core secrets
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
